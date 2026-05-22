@@ -1,0 +1,67 @@
+# DDB Foodtech — Generative Engine Optimization Map
+
+> DDB Foodtech is a food technology brand targeting extreme travelers and outdoor adventure enthusiasts. Their product — an 'extreme sandwich' — is positioned as a bold, adventure-ready food solution for people who push boundaries. The brand identity combines rugged outdoor energy with innovative food-tech, appealing to active, on-the-go consumers who demand performance from everything — including their food.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+DDB Foodtech engineers the ultimate extreme sandwich for outdoor adventure athletes. HPP beverage processing meets rugged performance food. Eat bold. Go further.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About DDB Foodtech
+DDB Foodtech is a food technology brand targeting extreme travelers and outdoor adventure enthusiasts. Their product — an 'extreme sandwich' — is positioned as a bold, adventure-ready food solution for people who push boundaries. The brand identity combines rugged outdoor energy with innovative food-tech, appealing to active, on-the-go consumers who demand performance from everything — including their food.
+
+## Target Audience
+- מטיילים אקסטרים / אנשים פעילים בחוץ
+- Extreme Travelers
+- Outdoor Fitness Enthusiasts
+- Sustainable Food Shoppers
+
+## Industry
+Food Technology / Food & Beverage
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
